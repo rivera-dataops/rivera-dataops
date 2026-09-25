@@ -1,4 +1,4 @@
-# ¡Hola! Soy Luis A. Rivera Adame 👋
+# ¡Hola! Soy Luis Rivera 👋
 **Data Scientist & BI Engineer | AWS & Cloud Computing**
 
 Soy un Ingeniero en Sistemas especializado en Data Science y Business Intelligence con más de 5 años de trayectoria. Mi enfoque es aportar valor real a las organizaciones transformando datos complejos (masivos y geoespaciales) en estrategias de negocio claras y accionables.
